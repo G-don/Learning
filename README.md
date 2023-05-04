@@ -16,6 +16,6 @@ To keep up with the latest technologies and stay competitive in the job market, 
 
 ##COMING SOON
 
-Stay tuned for the release of "Kock Tail's" – an upcoming SPA where your bartender Tone Cruze will share multiple recipes for your favorite spirits. Follow his instructions to create the best cocktail! This project will showcase my communication skills and my ability to work on a variety of projects.
+Stay tuned for the release of "Kock Tail's" – an upcoming SPA where your bartender Tone Cruz will share multiple recipes for your favorite spirits. Follow his instructions to create the best cocktail! This project will showcase my communication skills and my ability to work on a variety of projects.
 
 With these projects and technologies, I'm excited to continue growing my skills and exploring new opportunities.
