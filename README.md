@@ -23,4 +23,4 @@ My first React Project!
 My JS game!
 My first portfolio website!!
 
-With these projects and technologies, I'm excited to continue growing my skills and exploring new opportunities. And Pyhton shall be next!!! 
+With these projects and technologies, I'm excited to continue growing my skills and exploring new opportunities. And Python shall be next!!! 
