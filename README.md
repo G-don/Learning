@@ -4,7 +4,9 @@ These notes will keep track of my ongoing projects and the technologies I plan t
 
 ##Current Projects
 
-Currently, I'm taking my first steps in React and learning the basics. 
+Currently, I'm taking my first steps in React and learning the basics. I already experienced a bit of Redux as well. This week I will start something new with React. 
+I'm doing a Spring Rest API. 
+
 
 ##Next Projects
 
@@ -17,6 +19,8 @@ To keep up with the latest technologies and stay competitive in the job market, 
 
 ##COMING SOON
 
+My first React Project!
+My JS game!
 My first portfolio website!!
 
 With these projects and technologies, I'm excited to continue growing my skills and exploring new opportunities.
